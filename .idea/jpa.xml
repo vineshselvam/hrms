@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig" newRepositoryParent="org.springframework.data.jpa.repository.JpaRepository">
+    <option name="reLastEntityCreationPackage" value="src/main/java/com/vinesh/hrms/model" />
+    <option name="reverseEngineeringLastDbConnectionId" value="09456c76-afd1-417c-aba3-61400b821698" />
+  </component>
+</project>
